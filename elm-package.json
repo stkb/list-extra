@@ -4,10 +4,9 @@
     "repository": "https://github.com/elm-community/list-extra.git",
     "license": "MIT",
     "source-directories": [
-        "src"
+        "."
     ],
     "exposed-modules": [
-        "List.Extra"
     ],
     "dependencies": {
         "elm-lang/core": "4.0.0 <= v < 5.0.0"
